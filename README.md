@@ -1,6 +1,6 @@
 # 🎓 E-Learning Landing Page  
 
-![Project Banner](assets/banner.png)
+![Project Banner](E-Learning_Banner.png)
 
 ## 📖 About the Project  
 A clean, modern, and fully responsive **E-Learning landing page** designed to showcase courses in a visually appealing and user-friendly interface.  
