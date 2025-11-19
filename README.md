@@ -1,64 +1,58 @@
-# mohamed-webdev-E-Learning-Landingpage
-🌐 E-Learning Landing Page
+# 🎓 E-Learning Landing Page  
 
-A clean, modern, and responsive landing page for an online learning platform.
+![Project Banner](assets/banner.png)
 
-📖 About the Project
+## 📖 About the Project  
+A clean, modern, and fully responsive **E-Learning landing page** designed to showcase courses in a visually appealing and user-friendly interface.  
+This project focuses on elegant UI, clear layout structure, and smooth visual hierarchy — perfect for education platforms, course websites, or portfolio showcases.
 
-This project is a modern E-Learning landing page designed to showcase different educational courses in a stylish and user-friendly layout.
-It focuses on:
+---
 
-Clean UI
+## 🌐 Live Demo  
+🔗 [View Demo](https://mohammed-004del.github.io/mohamed-webdev-E-Learning-Landingpage/)  
 
-Smooth typography
+---
 
-Attractive gradients
+## 🛠️ Tech Stack  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
 
-Fully responsive layout
+---
 
-Professional card-based design
+## 📂 Features  
+- 🎨 Modern UI with elegant gradients  
+- 📱 Fully responsive layout (mobile-first)  
+- 🧱 Organized card-based course grid  
+- 🌙 Soft shadows for smooth visual hierarchy  
+- ⚡ Fast, lightweight, and clean code  
 
-Perfect for portfolio projects and showcasing front-end development skills.
+---
 
-🌐 Live Demo
+## 📸 Screenshot  
+![Screenshot](<img width="1920" height="1522" alt="E-learning landing page" src="https://github.com/user-attachments/assets/f57fa053-dfb6-48ba-8f49-e31690017abe" />
+)
 
-🔗 View Demo
+---
 
-# mohamed-webdev-E-Learning-Landingpage
-
-🛠️ Tech Stack
-
-
-
-
-📂 Features
-
-🎨 Modern UI with soft gradients
-
-🧭 Fully responsive layout
-
-🧱 Card-based course sections
-
-⚡ Clean design and smooth spacing
-
-🔥 Perfect for landing pages
-
-📸 Screenshot
-
-<img width="1920" height="1522" alt="E-learning landing page" src="https://github.com/user-attachments/assets/70d3c51f-8f71-4a0b-a011-36d7a3802d16" />
-
-
-⚙️ Installation
+## ⚙️ Installation  
 
 Clone the repository:
 
+```bash
 git clone https://github.com/Mohammed-004del/REPO-NAME-HERE.git
+```
 
+Open `index.html` in your browser — and you're ready to go!
 
-Open index.html in your browser — and you're good to go!
+---
 
-📬 Contact Me
+## 📬 Contact Me  
+Let’s connect and build something great together!  
 
-Let’s connect and build something awesome together!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammed-mahmood-7327b0301)  
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Mohammed-004del/mohamed-webdev)  
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:MohammedMahmoodHamed004@gmail.com)
 
-⚡ “Design is intelligence made visible.”
+---
+
+⚡ *“Great design makes learning easier.”*
