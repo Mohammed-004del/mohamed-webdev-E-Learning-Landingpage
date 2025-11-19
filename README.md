@@ -29,8 +29,7 @@ This project focuses on elegant UI, clear layout structure, and smooth visual hi
 ---
 
 ## 📸 Screenshot  
-![Screenshot](<img width="1920" height="1522" alt="E-learning landing page" src="https://github.com/user-attachments/assets/f57fa053-dfb6-48ba-8f49-e31690017abe" />
-)
+![Screenshot](mohamed-webdev-E-Learning-Landingpage)
 
 ---
 
