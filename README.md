@@ -29,7 +29,7 @@ This project focuses on elegant UI, clear layout structure, and smooth visual hi
 ---
 
 ## 📸 Screenshot  
-![Screenshot](E-learning landing page.png)
+![Screenshot](E-learning_landingpage.png)
 
 ---
 
