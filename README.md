@@ -13,12 +13,6 @@ This project focuses on elegant UI, clear layout structure, and smooth visual hi
 
 ---
 
-## 🛠️ Tech Stack  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
-
----
-
 ## 📂 Features  
 - 🎨 Modern UI with elegant gradients  
 - 📱 Fully responsive layout (mobile-first)  
@@ -42,6 +36,12 @@ git clone https://github.com/Mohammed-004del/REPO-NAME-HERE.git
 ```
 
 Open `index.html` in your browser — and you're ready to go!
+
+---
+
+## 🛠️ Tech Stack  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
 
 ---
 
